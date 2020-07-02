@@ -30,3 +30,7 @@ The reference shell is TCSH
 - fork, stat, lstat, fstat, open, close, getline  
 - read, write, execve, access, isatty, wait, waitpid  
 - wait3, wait4, signal, kill, getpid, strerror, perror, strsignal  
+
+## Examples
+
+![ScreenShot](https://raw.github.com/L0rentz/Minishell1/master/examples/example.png)
